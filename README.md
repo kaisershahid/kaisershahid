@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 I've been a software developer for 20 years now and love to build with code. I've done a lot of fullstack work but generally prefer backend-focused engineering. I also know how to build distributed services in AWS! I can do architecture, write plans, and lead small teams. I also love writing documentation.
+
+💰 Currently looking for work.
 
 <!--
 **kaisershahid/kaisershahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

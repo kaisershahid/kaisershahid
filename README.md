@@ -1,10 +1,4 @@
-👋 I'm a fullstack/devOps engineer with over 20 years experience developing web application solutions for corporations, startups, and small businesses. I have expertise in:
-
-- Architecting, planning, and implementing complex frontend and backend systems with AWS, AEM, and MERN stacks
-- Working cross-functionally to gather requirements and reach consensus on goals
-- Leveraging automation through CI/CD and custom orchestration tools
-- Sharing knowledge with and mentoring teammates
-- Adapting to new teams and new technological stacks quickly and competently
+👋 I'm a self-driven fullstack engineer who loves architecting, implementing, and deploying systems and helping teams grow. I've worked extensively with **PHP**, **Adobe Experience Manager (AEM)**, and **Node.js**/**TypeScript**/**Next.js**/**React** stacks. I've gathered requirements, written project plans, planned sprint tasks, and launched products solo and with teams. I've developed **CI/CD pipelines**, **Docker images**, and **Terraform modules** launched to **AWS**. I am *easy to work* with, *find ways to be useful*, and *get things done*.
 
 💰 I'm open to work fulltime, parttime, and contract, either remote or hybrid/onsite in Pittsburgh, PA. Email kaiser-4-hire@acmedinotech.com if you're interested.
 
